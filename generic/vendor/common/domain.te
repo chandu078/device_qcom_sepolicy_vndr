@@ -72,6 +72,7 @@ neverallow {
 
 neverallow { domain
 - init
+- platform_app
 - vendor_init
 - ueventd
 - shell
